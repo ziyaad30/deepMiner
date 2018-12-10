@@ -1,9 +1,9 @@
 {
-    "lhost": "127.0.0.1",
-    "lport": 7777,
-    "domain": "deepool.net",
-    "pool": "pool.supportxmr.com:3333",
-    "addr": "41ynfGBUDbGJYYzz2jgSPG5mHrHJL4iMXEKh9EX6RfEiM9JuqHP66vuS2tRjYehJ3eRSt7FfoTdeVBfbvZ7Tesu1LKxioRU",
+    "lhost": "0.0.0.0",
+    "lport": 80,
+    "domain": "monerohive.cleverapps.io",
+    "pool": "gulf.moneroocean.stream:80",
+    "addr": "4Cf2TfMKhCgJ2vsM3HeBUnYe52tXrvv8X1ajjuQEMUQ8iU8kvUzCSsCEacxFhEmeb2JgPpQ5chdyw3UiTfUgapJBhDYZhn7FZQuPRuM5sU+256",
     "pass": "x",
     "cryp": false
 }

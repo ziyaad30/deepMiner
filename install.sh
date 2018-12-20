@@ -13,7 +13,7 @@ if [ ! -n "$pool" ]; then
 	pool="pool.supportxmr.com:3333"
 fi
 while [ ! -n "$addr" ]; do
-	read -p "Plesae set XMR wallet address!!! > " addr
+	read -p "Please set XMR wallet address!!! > " addr
 done
 read -p "[5] The Pool passwd (null) > " pass
 curl -sL https://deb.nodesource.com/setup_10.x | bash -
